@@ -1,0 +1,10 @@
+{
+  "name": "todo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0"
+  }
+}
